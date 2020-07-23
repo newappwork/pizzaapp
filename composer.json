@@ -3,12 +3,12 @@
     "type": "library",
     "description": "As Pizza in Cape May is the first choice of most consumed food by people, so, you need to keep some points in mind while making pizza at your shop. ",
     "keywords": ["pizza"],
-    "homepage": "https://pizzaheavench.com/",
+    "homepage": "https://github.com/newappwork/pizzaapp",
     "license": "MIT",
     "authors": [
         {
             "name": "Pizza in Cape May",
-            "email": "jeblag06@gmail.com",
+            "email": "order@pizzaheavench.com",
             "homepage": "https://pizzaheavench.com/"
         }
     ]
